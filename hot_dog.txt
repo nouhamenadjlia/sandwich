@@ -2,4 +2,3 @@ saucisse
 ketchup
 Tomate
 Cornichon
-Fromage
